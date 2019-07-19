@@ -1,8 +1,8 @@
 # Don't track content of these folders
 
 # Don't track these specific files
-./01_Data_Cleaning/datasets_database/database.sqlite
-./01_Data_Cleaning/datasets_database/combined_tables.csv
+01_Data_Cleaning/datasets_database/database.sqlite
+01_Data_Cleaning/datasets_database/combined_tables.csv
 
 # Compiled source #
 ###################
